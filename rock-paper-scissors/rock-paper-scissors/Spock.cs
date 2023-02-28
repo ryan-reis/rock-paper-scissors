@@ -15,5 +15,13 @@ namespace rock_paper_scissors
             get { return this.number; }
             set { this.number = value; }
         }
+        public Spock(int aNumber)
+        {
+            this.number = aNumber;
+        }
+        public override string ToString()
+        {
+            return number.ToString();
+        }
     }
 }
