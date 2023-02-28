@@ -8,8 +8,13 @@ namespace rock_paper_scissors
 {
     public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+            Rock aRock = new Rock(1);
+            Paper aPaper = new Paper(2);
+            Scissors aScissors = new Scissors(3);
+            Lizard aLizard = new Lizard(4);
+            Spock aSpock = new Spock(5);
         }
     }
 }
