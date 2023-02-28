@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace rock_paper_scissors
 {
-    public class Program
+    public class Rock
     {
-        static void Main(string[] args)
+        private int number = 0;
+
+        public int Number
         {
+            get { return this.number; }
+            set { this.number = value; }
         }
     }
 }
