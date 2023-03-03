@@ -15,12 +15,25 @@ namespace rock_paper_scissors
             Scissors aScissors = new Scissors(3);
             Lizard aLizard = new Lizard(4);
             Spock aSpock = new Spock(5);
+            GameManager manager = new GameManager();
+            manager.PlayRockPaperScissors();
+            bool wantToPlay = true;
+            string playerChoice = "";
+            while (wantToPlay == true)
+            {
+                Console.WriteLine("do you want to keep playing rock paper sisszors spock lizard? if yes type: 1 if no type: 2 ");
+                playerChoice = Console.ReadLine();
+                if (playerChoice == "1")
+                {
+                    manager.PlayRockPaperScissors();
+                }
+                else
+                {
+                    wantToPlay = false;
+                }
+            }
 
-            
-
-            Console.WriteLine("Enter Rock,Paper,Scissors,Lizard, or Spock"+"\n");
-            string playerChoice = Console.ReadLine();
-            
+            Console.ReadLine();
         }
     }
 }

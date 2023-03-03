@@ -6,3 +6,11 @@ C:\Users\Ryan\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\
 C:\Users\Ryan\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.CoreCompileInputs.cache
 C:\Users\Ryan\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.exe
 C:\Users\Ryan\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.pdb
+C:\Users\Zachs\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.exe.config
+C:\Users\Zachs\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.exe
+C:\Users\Zachs\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\bin\Debug\rock-paper-scissors.pdb
+C:\Users\Zachs\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.AssemblyReference.cache
+C:\Users\Zachs\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zachs\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.csproj.CoreCompileInputs.cache
+C:\Users\Zachs\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.exe
+C:\Users\Zachs\OneDrive\Documents\GitHub\rock-paper-scissors\rock-paper-scissors\rock-paper-scissors\obj\Debug\rock-paper-scissors.pdb
