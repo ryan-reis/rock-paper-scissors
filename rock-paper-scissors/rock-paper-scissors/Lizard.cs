@@ -21,7 +21,7 @@ namespace rock_paper_scissors
         } 
         public override string ToString()
         {
-            return number.ToString();
+            return Number.ToString();
         }
     }
 }

@@ -15,6 +15,12 @@ namespace rock_paper_scissors
             Scissors aScissors = new Scissors(3);
             Lizard aLizard = new Lizard(4);
             Spock aSpock = new Spock(5);
+
+            PlayerInput aPlayerInput= new PlayerInput();
+
+            Console.WriteLine("Enter Rock,Paper,Scissors,Lizard, or Spock"+"\n");
+            
+            
         }
     }
 }
